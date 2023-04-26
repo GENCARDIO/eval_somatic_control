@@ -1,0 +1,7 @@
+chr	position	ref	alt	gene	hgvsp	vaf	found_vaf	detected
+chr1	1000	A	G	GENE1	p.P1L	10	12	True
+chr1	2000	C	T	GENE2	p.P2L	15	17	True
+chr1	3000	C	T	GENE2	p.P2L	20	22	True
+chr1	4000	C	T	GENE2	p.P2L	25	27	True
+chr1	5000	C	T	GENE2	p.P2L	30	33	True
+chr1	6000	C	T	GENE2	p.P2L	75	68	True
